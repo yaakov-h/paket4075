@@ -1,0 +1,9 @@
+source https://api.nuget.org/v3/index.json
+
+framework: net48, netcoreapp3.1, net5.0
+storage: none
+
+nuget Moq
+nuget NUnit
+nuget NUnit3TestAdapter
+nuget Microsoft.NET.Test.Sdk
